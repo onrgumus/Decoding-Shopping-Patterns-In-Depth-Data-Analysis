@@ -1,4 +1,4 @@
-# Decoding-Shopping-Patterns-In-Depth-Data-Analysis
+# Understanding Shopping Behavior Through Data Analysis
 Decoding Shopping Patterns: In-Depth Data Analysis
 
 ABOUT THE DATA SET:
