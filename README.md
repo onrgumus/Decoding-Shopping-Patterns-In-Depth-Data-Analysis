@@ -45,6 +45,6 @@ Payment Method: Customer's most preferred payment method
 
 Frequency of Purchases: Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
 
-#OBJECTIVE AND TASK:
+# OBJECTIVE AND TASK:
 
 Objective: The objective of the Customer Shopping Trends Dataset is to analyze the purchasing patterns of customers. By exploring this dataset, insights into the most purchased items can be gained. This analysis can help identify popular products, understand consumer preferences, and potentially inform marketing or inventory strategies. By examining the dataset's variables and conducting exploratory data analysis, trends, patterns, and correlations can be uncovered to contribute to a better understanding of customer shopping behavior.
